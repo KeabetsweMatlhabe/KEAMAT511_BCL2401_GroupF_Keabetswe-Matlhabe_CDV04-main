@@ -11,12 +11,6 @@ Compelling cover letter specifically tailored for the Junior React Developer pos
 - **Company:** Vulindlela
 - **Location:** Johannesburg, South Africa
 
-### Project Objectives
-- Demonstrate your enthusiasm and suitability for the Junior React Developer role.
-- Highlight how your skills and aspirations align with the company's mission and the demands of the role.
-- Create a professional and personalised cover letter that sets you apart from other candidates.
-
-
 ### Link to Cover Letter
 [Your Google Docs Cover Letter]:https://docs.google.com/document/d/1uCKpmlmSA_SKoBuE0ii2B6dCYx1Tlb-WglgOPBBDWNw/edit?usp=sharing
 
