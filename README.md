@@ -12,5 +12,5 @@ Compelling cover letter specifically tailored for the Junior React Developer pos
 - **Location:** Johannesburg, South Africa
 
 ### Link to Cover Letter
-[Your Google Docs Cover Letter]:https://docs.google.com/document/d/1uCKpmlmSA_SKoBuE0ii2B6dCYx1Tlb-WglgOPBBDWNw/edit?usp=sharing
+[Your Google Docs Cover Letter] :https://docs.google.com/document/d/1uCKpmlmSA_SKoBuE0ii2B6dCYx1Tlb-WglgOPBBDWNw/edit?usp=sharing
 
